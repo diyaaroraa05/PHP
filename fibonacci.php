@@ -9,4 +9,5 @@ for ($i = 3; $i <= $terms; $i++) {
       $a = $b;
     $b = $nextTerm;
 }
+echo("This program is written and executed by Diya Arora (2220100252)");
 ?>

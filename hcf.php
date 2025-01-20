@@ -12,4 +12,6 @@ for ($i = $min; $i >= 1; $i--) {
 }
 
 echo "The HCF of $num1 and $num2 is $hcf";
+echo"<br>";
+echo("This program is written and executed by Diya Arora (2220100252)");
 ?>

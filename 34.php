@@ -11,5 +11,5 @@ var_dump($x != $y); echo "<br>";
 var_dump($x $y); echo "<br>";
 var_dump($x !== $y); echo "<br>";
 echo "<br>";
-echo "Program by Diya Bhutani(2220100243)";
+echo "This program is written and executed by Diya Arora (2220100252)");
 ?>
